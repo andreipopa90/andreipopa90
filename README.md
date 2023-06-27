@@ -1,7 +1,7 @@
-👋 Hello there!
+Hello there!
   
 I’m Andrei Popa.<br>
-👀 I’m interested in video games, mangas, comic books, anything algorithms and recently computer graphics.
+I’m interested in video games, mangas, comic books, anything algorithms and recently computer graphics.
 
 <!---
 andreipopa90/andreipopa90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
